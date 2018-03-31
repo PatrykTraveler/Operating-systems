@@ -1,0 +1,227 @@
+
+Copy test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 50000                RECORD SIZE: 4
+Real time: 0.1697s
+User time: 0.1701s
+System time: 0.0s
+
+Sort test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 50000                RECORD SIZE: 4
+Real time: 1387.181973s
+User time: 346.259449s
+System time: 1040.355890s
+
+Copy test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 50000                RECORD SIZE: 4
+Real time: 0.74418s
+User time: 0.14099s
+System time: 0.60287s
+
+Sort test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 50000                RECORD SIZE: 4
+Real time: 1059.374543s
+User time: 198.240888s
+System time: 860.725508s
+
+Copy test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 25000                RECORD SIZE: 4
+Real time: 0.861s
+User time: 0.863s
+System time: 0.0s
+
+Sort test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 25000                RECORD SIZE: 4
+Real time: 345.28628s
+User time: 85.924751s
+System time: 259.58295s
+
+Copy test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 25000                RECORD SIZE: 4
+Real time: 0.37966s
+User time: 0.2643s
+System time: 0.34845s
+
+Sort test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 25000                RECORD SIZE: 4
+Real time: 269.630257s
+User time: 50.264671s
+System time: 219.248706s
+
+Copy test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 4000                RECORD SIZE: 512
+Real time: 0.1930s
+User time: 0.1545s
+System time: 0.387s
+
+Sort test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 4000                RECORD SIZE: 512
+Real time: 9.84602s
+User time: 2.125560s
+System time: 6.958371s
+
+Copy test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 4000                RECORD SIZE: 512
+Real time: 0.6836s
+User time: 0.0s
+System time: 0.6797s
+
+Sort test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 4000                RECORD SIZE: 512
+Real time: 7.90837s
+User time: 1.247580s
+System time: 5.835074s
+
+Copy test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 2000                RECORD SIZE: 512
+Real time: 0.1387s
+User time: 0.926s
+System time: 0.463s
+
+Sort test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 2000                RECORD SIZE: 512
+Real time: 2.131066s
+User time: 0.497160s
+System time: 1.633674s
+
+Copy test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 2000                RECORD SIZE: 512
+Real time: 0.3328s
+User time: 0.0s
+System time: 0.3329s
+
+Sort test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 2000                RECORD SIZE: 512
+Real time: 1.779997s
+User time: 0.319254s
+System time: 1.460300s
+
+Copy test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 500                RECORD SIZE: 4096
+Real time: 0.2180s
+User time: 0.0s
+System time: 0.2109s
+
+Sort test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 500                RECORD SIZE: 4096
+Real time: 0.124924s
+User time: 0.21015s
+System time: 0.103907s
+
+Copy test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 500                RECORD SIZE: 4096
+Real time: 0.1145s
+User time: 0.1148s
+System time: 0.0s
+
+Sort test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 500                RECORD SIZE: 4096
+Real time: 0.120352s
+User time: 0.12344s
+System time: 0.106188s
+
+Copy test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 250                RECORD SIZE: 4096
+Real time: 0.1163s
+User time: 0.777s
+System time: 0.388s
+
+Sort test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 250                RECORD SIZE: 4096
+Real time: 0.29108s
+User time: 0.1152s
+System time: 0.27948s
+
+Copy test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 250                RECORD SIZE: 4096
+Real time: 0.529s
+User time: 0.354s
+System time: 0.177s
+
+Sort test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 250                RECORD SIZE: 4096
+Real time: 0.34033s
+User time: 0.0s
+System time: 0.34002s
+
+Copy test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 125                RECORD SIZE: 8192
+Real time: 0.1208s
+User time: 0.0s
+System time: 0.1210s
+
+Sort test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 125                RECORD SIZE: 8192
+Real time: 0.10202s
+User time: 0.6803s
+System time: 0.3402s
+
+Copy test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 125                RECORD SIZE: 8192
+Real time: 0.1041s
+User time: 0.0s
+System time: 0.1046s
+
+Sort test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 125                RECORD SIZE: 8192
+Real time: 0.16933s
+User time: 0.4482s
+System time: 0.12454s
+
+Copy test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 50                RECORD SIZE: 8192
+Real time: 0.458s
+User time: 0.459s
+System time: 0.0s
+
+Sort test: 
+------------------------------
+MODE: lib                RECORD NUMBER: 50                RECORD SIZE: 8192
+Real time: 0.1645s
+User time: 0.1646s
+System time: 0.0s
+
+Copy test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 50                RECORD SIZE: 8192
+Real time: 0.175s
+User time: 0.176s
+System time: 0.0s
+
+Sort test: 
+------------------------------
+MODE: sys                RECORD NUMBER: 50                RECORD SIZE: 8192
+Real time: 0.1762s
+User time: 0.0s
+System time: 0.1763s
+
+Wnioski:
+Dla dużej ilości elementów i małych rozmiarów rekordów, szybsze są funkcje systemowe, natomiast przy małej ilości elementów i dużych rozmiarach rekordów nieco szybsze są funkcje z biblioteki C.

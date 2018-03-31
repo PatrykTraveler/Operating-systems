@@ -1,0 +1,313 @@
+Static:
+SIZE:    5000    BLOCK_SIZE:    50    MODE:    STATIC
+
+Alloc test: 
+------------------------------
+Real time: 0.295s
+User time: 0.297s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 0.277050s
+User time: 0.277052s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.186139s
+User time: 0.182141s
+System time: 0.3999s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.186591s
+User time: 0.178611s
+System time: 0.7973s
+SIZE:    5000    BLOCK_SIZE:    50    MODE:    DYNAMIC
+
+Alloc test: 
+------------------------------
+Real time: 0.192959s
+User time: 0.189364s
+System time: 0.3566s
+
+Search test: 
+------------------------------
+Real time: 3.558879s
+User time: 3.558747s
+System time: 0.55s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.486283s
+User time: 0.462266s
+System time: 0.23989s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.490426s
+User time: 0.474440s
+System time: 0.15982s
+SIZE:    10000    BLOCK_SIZE:    50    MODE:    STATIC
+
+Alloc test: 
+------------------------------
+Real time: 0.294s
+User time: 0.295s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 0.275981s
+User time: 0.275977s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.189935s
+User time: 0.177974s
+System time: 0.11962s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.184336s
+User time: 0.180328s
+System time: 0.4010s
+SIZE:    10000    BLOCK_SIZE:    50    MODE:    DYNAMIC
+
+Alloc test: 
+------------------------------
+Real time: 0.384854s
+User time: 0.384840s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 7.50268s
+User time: 7.49877s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.486809s
+User time: 0.450780s
+System time: 0.35991s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.511205s
+User time: 0.491200s
+System time: 0.19992s
+
+Shared:
+SIZE:    5000    BLOCK_SIZE:    50    MODE:    STATIC
+
+Alloc test: 
+------------------------------
+Real time: 0.294s
+User time: 0.295s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 0.275756s
+User time: 0.275752s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.186752s
+User time: 0.174651s
+System time: 0.12080s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.185821s
+User time: 0.173870s
+System time: 0.11954s
+SIZE:    5000    BLOCK_SIZE:    50    MODE:    DYNAMIC
+
+Alloc test: 
+------------------------------
+Real time: 0.195008s
+User time: 0.195000s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 3.447183s
+User time: 3.446993s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.484891s
+User time: 0.460853s
+System time: 0.24018s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.489630s
+User time: 0.465617s
+System time: 0.23992s
+SIZE:    10000    BLOCK_SIZE:    50    MODE:    STATIC
+
+Alloc test: 
+------------------------------
+Real time: 0.305s
+User time: 0.306s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 0.277264s
+User time: 0.271900s
+System time: 0.3949s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.189292s
+User time: 0.180255s
+System time: 0.7966s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.185105s
+User time: 0.180139s
+System time: 0.4007s
+SIZE:    10000    BLOCK_SIZE:    50    MODE:    DYNAMIC
+
+Alloc test: 
+------------------------------
+Real time: 0.380791s
+User time: 0.380730s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 6.917644s
+User time: 6.917429s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.484923s
+User time: 0.468921s
+System time: 0.15999s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.500124s
+User time: 0.488122s
+System time: 0.12000s
+
+Dynamic:
+SIZE:    5000    BLOCK_SIZE:    50    MODE:    STATIC
+
+Alloc test: 
+------------------------------
+Real time: 0.296s
+User time: 0.297s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 0.281588s
+User time: 0.281589s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.189173s
+User time: 0.185179s
+System time: 0.3994s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.190734s
+User time: 0.186704s
+System time: 0.4031s
+SIZE:    5000    BLOCK_SIZE:    50    MODE:    DYNAMIC
+
+Alloc test: 
+------------------------------
+Real time: 0.193290s
+User time: 0.193286s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 3.586588s
+User time: 3.586580s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.493862s
+User time: 0.469874s
+System time: 0.23989s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.493066s
+User time: 0.485040s
+System time: 0.8005s
+SIZE:    10000    BLOCK_SIZE:    50    MODE:    STATIC
+
+Alloc test: 
+------------------------------
+Real time: 0.461s
+User time: 0.463s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 0.276524s
+User time: 0.276510s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.192732s
+User time: 0.184762s
+System time: 0.7968s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.194982s
+User time: 0.187021s
+System time: 0.7962s
+SIZE:    10000    BLOCK_SIZE:    50    MODE:    DYNAMIC
+
+Alloc test: 
+------------------------------
+Real time: 0.374786s
+User time: 0.374785s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 7.90543s
+User time: 7.90414s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.513728s
+User time: 0.477693s
+System time: 0.35997s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.495468s
+User time: 0.479444s
+System time: 0.15996s
+
+------------------------------------------------------------------------------------
+WNIOSKI:
+
+W przypadku alokacji dynamicznej tablicy o 10000 elementach, wyniki są niemal identyczne, jednak najniższy czas osięgnęła biblioteka ładowana dynamicznie.
+W przypadku wyszukiwania w tablicy o 10000 elementach, najszybsza okazała się biblioteka dzielona, na drugim miejscu statyczna i ostatnia dynamiczna.
+W przypadku sekwencyjnego usuwania i dodawania bloków do tablicy o 10000 elementach, najszybsza okazała się biblioteka dzielona, niewiele wolniejsza biblioteka statyczna i najwolniejsz dynamiczna.
+W przypadku przemiennego usuwania i dodawania bloków najszybsza okazała się biblioteka dynamiczna, druga dzielona i na końcu statyczna.

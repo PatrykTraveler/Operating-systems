@@ -1,0 +1,100 @@
+SIZE:    5000    BLOCK_SIZE:    50    MODE:    STATIC
+
+Alloc test: 
+------------------------------
+Real time: 0.293s
+User time: 0.0s
+System time: 0.294s
+
+Search test: 
+------------------------------
+Real time: 0.279591s
+User time: 0.274499s
+System time: 0.3338s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.193190s
+User time: 0.192158s
+System time: 0.10s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.194728s
+User time: 0.185681s
+System time: 0.7945s
+SIZE:    5000    BLOCK_SIZE:    50    MODE:    DYNAMIC
+
+Alloc test: 
+------------------------------
+Real time: 0.194438s
+User time: 0.194418s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 3.499889s
+User time: 3.499708s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.485425s
+User time: 0.461357s
+System time: 0.24022s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.503034s
+User time: 0.494987s
+System time: 0.7997s
+SIZE:    10000    BLOCK_SIZE:    50    MODE:    STATIC
+
+Alloc test: 
+------------------------------
+Real time: 0.293s
+User time: 0.295s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 0.278891s
+User time: 0.278889s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.188823s
+User time: 0.184814s
+System time: 0.4002s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.184646s
+User time: 0.172626s
+System time: 0.12021s
+SIZE:    10000    BLOCK_SIZE:    50    MODE:    DYNAMIC
+
+Alloc test: 
+------------------------------
+Real time: 0.390450s
+User time: 0.390398s
+System time: 0.0s
+
+Search test: 
+------------------------------
+Real time: 7.154841s
+User time: 7.154832s
+System time: 0.0s
+
+Sequence replace test: 
+------------------------------
+Real time: 0.485578s
+User time: 0.473573s
+System time: 0.11999s
+
+Alternate replace test: 
+------------------------------
+Real time: 0.487833s
+User time: 0.471836s
+System time: 0.15999s
